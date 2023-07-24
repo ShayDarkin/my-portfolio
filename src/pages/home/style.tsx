@@ -47,7 +47,7 @@ export const HeaderButtonsArea = styled(Flex, {
 
   [`& ${Button}`]: {
     marginRight: "$2",
-    overflow: "hidden",
+    // overflow: "hidden",
   },
 
   "@mobile": {
